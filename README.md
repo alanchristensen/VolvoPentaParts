@@ -9,3 +9,10 @@ Do not use 107R as they require a regulating power supply and will burn up http:
 Gates 6214MC
 
 Width: 10mm Length: 850mm
+
+#### Oil Filter
+Volvo 3840525
+
+WIX 57000 = Napa Gold 7000
+
+Napa ProSelect 21516
